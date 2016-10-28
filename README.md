@@ -1,7 +1,7 @@
 # TestWorkflow
 
 [![Gem Version](https://badge.fury.io/rb/test_workflow.svg)](http://badge.fury.io/rb/test_workflow)
-[![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jnyman/test_workflow/blob/master/LICENSE.txt)
+[![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jeffnyman/test_workflow/blob/master/LICENSE.txt)
 
 TestWorkflow implements the idea of traversing a set of activities in the context of a user workflow.
 
@@ -235,7 +235,7 @@ After checking out the repo, run `bin/setup` to install dependencies. Then, run 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at [https://github.com/jnyman/test_workflow](https://github.com/jnyman/test_workflow). The testing ecosystem of Ruby is very large and this project is intended to be a welcoming arena for collaboration on yet another testing tool. As such, contributors are very much welcome but are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at [https://github.com/jeffnyman/test_workflow](https://github.com/jeffnyman/test_workflow). The testing ecosystem of Ruby is very large and this project is intended to be a welcoming arena for collaboration on yet another testing tool. As such, contributors are very much welcome but are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 To contribute to TestWorkflow:
 
@@ -256,5 +256,5 @@ This code is loosely based upon the [PageNavigation](https://github.com/cheezy/p
 ## License
 
 TestWorkflow is distributed under the [MIT](http://www.opensource.org/licenses/MIT) license.
-See the [LICENSE](https://github.com/jnyman/test_workflow/blob/master/LICENSE.txt) file for details.
+See the [LICENSE](https://github.com/jeffnyman/test_workflow/blob/master/LICENSE.txt) file for details.
 

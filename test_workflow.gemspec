@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Chains classes and methods as a path to execute in a workflow.}
   spec.description   = %q{Chains classes and methods as a path to execute in a workflow.}
-  spec.homepage      = "https://github.com/jnyman/test_workflow"
+  spec.homepage      = "https://github.com/jeffnyman/test_workflow"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
